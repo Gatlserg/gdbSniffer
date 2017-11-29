@@ -1,0 +1,15 @@
+c:\users\s.chistyakov\documents\visual studio 2015\Projects\gdbSniffer\gdbSniffer\obj\Debug\gdbSniffer.csprojResolveAssemblyReference.cache
+c:\users\s.chistyakov\documents\visual studio 2015\Projects\gdbSniffer\gdbSniffer\bin\Debug\gdbSniffer.exe
+c:\users\s.chistyakov\documents\visual studio 2015\Projects\gdbSniffer\gdbSniffer\bin\Debug\gdbSniffer.pdb
+c:\users\s.chistyakov\documents\visual studio 2015\Projects\gdbSniffer\gdbSniffer\bin\Debug\EasyHook.dll
+c:\users\s.chistyakov\documents\visual studio 2015\Projects\gdbSniffer\gdbSniffer\bin\Debug\EvilDll.dll
+c:\users\s.chistyakov\documents\visual studio 2015\Projects\gdbSniffer\gdbSniffer\bin\Debug\EvilDll.pdb
+c:\users\s.chistyakov\documents\visual studio 2015\Projects\gdbSniffer\gdbSniffer\bin\Debug\EasyHook.xml
+c:\users\s.chistyakov\documents\visual studio 2015\Projects\gdbSniffer\gdbSniffer\obj\Debug\gdbSniffer.exe
+c:\users\s.chistyakov\documents\visual studio 2015\Projects\gdbSniffer\gdbSniffer\obj\Debug\gdbSniffer.pdb
+c:\users\s.chistyakov\documents\visual studio 2015\Projects\gdbSniffer\gdbSniffer\bin\Debug\EasyHook32.dll
+c:\users\s.chistyakov\documents\visual studio 2015\Projects\gdbSniffer\gdbSniffer\bin\Debug\EasyHook32Svc.exe
+c:\users\s.chistyakov\documents\visual studio 2015\Projects\gdbSniffer\gdbSniffer\bin\Debug\EasyHook64.dll
+c:\users\s.chistyakov\documents\visual studio 2015\Projects\gdbSniffer\gdbSniffer\bin\Debug\EasyHook64Svc.exe
+c:\users\s.chistyakov\documents\visual studio 2015\Projects\gdbSniffer\gdbSniffer\bin\Debug\EasyLoad32.dll
+c:\users\s.chistyakov\documents\visual studio 2015\Projects\gdbSniffer\gdbSniffer\bin\Debug\EasyLoad64.dll
